@@ -1,0 +1,10 @@
+Required Libraries
+
+1. tkinter
+2. customtkinter
+3. CTkSpinbox
+4. sqlit3
+5. pllow
+6. functools
+7. os
+ 
